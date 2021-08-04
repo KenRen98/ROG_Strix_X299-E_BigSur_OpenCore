@@ -15,7 +15,7 @@ https://dortania.github.io/OpenCore-Install-Guide/config-HEDT/skylake-x.html#sta
 
 4. For BIOS setting, Please View:</br>
 https://github.com/khronokernel/OpenCore-Asus-X299/blob/master/X299_Strix_OpenCore_setting.txt</br>
-<h4>I strongly recommend Recommend you use the v2002 BIOS, I tested other newer BIOS, just didnt work out.
+<h4>I strongly recommend you use the v2002 BIOS, I tested other newer BIOS, just didnt work out.
 Even with the FIX from khronokernel, older version somehow didnt work for me.</h4>
 
 <hr>
